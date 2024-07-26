@@ -9,7 +9,7 @@ import markdown
 import markdownify
 
 
-
+## read in MAVE references
 df = pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSyfGNVJb_nsyGwoD_-Zdugosr8PuteNupkaqwJUXwW4PwaBF325kL7jPAnDrf_Zeu-Ezht66vL6wG9/pub?output=csv")
 
 
@@ -46,5 +46,5 @@ markdown_string_out = markdownify.markdownify(html_string, heading_style='ATX')
 
 
 # output updated readme
-with open('README_test.md', 'w') as f:
+with open('README.md', 'w') as f:
     f.write(markdown_string_out)
