@@ -26,7 +26,7 @@ for h2 in h2s:
     markdown_string += '##'+h2+'\n'
     h3s = df.query('header2 == @h2')['header3'].unique().tolist()
     for h3 in h3s:
-        markdown_string += '##'+h3+'\n'
+        markdown_string += '###'+h3+'\n'
         for i,row in df.query('header3 == @h3').iterrows():
             t = row['title']
             u = row['url']
