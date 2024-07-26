@@ -12,18 +12,18 @@ List of software packages (and the people developing these methods) for multiple
 * [awesome\-mave](#awesome-mave)
 	+ [Contents](#contents)
 	+ [Software Packages](#software-packages)
-	+ [In Silico Tools](#in-silico-tools)
-	+ [Analysis Tools](#analysis-tools)
+		- [In Silico Tools](#in-silico-tools)
+		- [Analysis Tools](#analysis-tools)
 	+ [Applications](#applications)
-	+ [Websites / Portals](#websites-portals)
-	+ [Databases](#databases)
+		- [Websites / Portals](#websites-portals)
+		- [Databases](#databases)
 
 
 
 ## Software Packages
 
 
-## In Silico Tools
+### In Silico Tools
 
 
 * [REVEL](https://sites.google.com/site/revelgenomics/) \- \[.] \- An ensemble method for predicting the pathogenicity of missense variants based on a combination of scores from 13 individual tools
@@ -32,7 +32,7 @@ List of software packages (and the people developing these methods) for multiple
 * [GV\-Rep](https://github.com/bowang-lab/genomic-FM) \- \[.] \- A Large\-Scale Dataset for Genetic Variant Representation Learning
 
 
-## Analysis Tools
+### Analysis Tools
 
 
 * [Enrich2](https://enrich2.readthedocs.io/en/latest/) \- \[.] \- Enrich2 is a general software tool for processing, analyzing, and visualizing data from deep mutational scanning experiments.
@@ -42,7 +42,7 @@ List of software packages (and the people developing these methods) for multiple
 ## Applications
 
 
-## Websites / Portals
+### Websites / Portals
 
 
 * [MAVEvidence](https://mavevidence.com/)  \- \[.] \- MAVEvidence is the premier functional evidence resource for the clinical genetics community.
@@ -51,7 +51,7 @@ List of software packages (and the people developing these methods) for multiple
 * [OncoKB](https://www.oncokb.org/) \- \[.] \- MSK's Precision Oncology Knowledge Base
 
 
-## Databases
+### Databases
 
 
 * [MAVERegistry](https://registry.varianteffect.org/)  \- \[.] \- MaveRegistry is a collaborative resource for sharing progress on Multiplexed Assays of Variant Effect (MAVE)
