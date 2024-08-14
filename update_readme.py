@@ -9,6 +9,11 @@ import markdown
 import markdownify
 
 
+def check_nan(value):
+    if isinstance(value, (float, int)) and (np.isnan(value) if isinstance(value, float) else False):
+        return "."
+    return value
+
 ## read in MAVE references
 df = pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSyfGNVJb_nsyGwoD_-Zdugosr8PuteNupkaqwJUXwW4PwaBF325kL7jPAnDrf_Zeu-Ezht66vL6wG9/pub?output=csv")
 

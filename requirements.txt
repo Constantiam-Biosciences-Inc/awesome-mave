@@ -1,0 +1,4 @@
+Markdown==3.6
+markdownify==0.13.1
+numpy
+pandas
