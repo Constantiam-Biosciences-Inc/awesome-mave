@@ -35,6 +35,7 @@ List of software packages (and the people developing these methods) for multiple
 * [AlphaMissense](https://alphamissense.hegelab.org/) \- \[.] \- A deep learning model that builds on the protein structure prediction tool AlphaFold2
 * [CADD](https://cadd.gs.washington.edu/) \- \[.] \- CADD is a tool for scoring the deleteriousness of single nucleotide variants, multi\-nucleotide substitutions as well as insertion/deletions variants in the human genome.
 * [GV\-Rep](https://github.com/bowang-lab/genomic-FM) \- \[.] \- A Large\-Scale Dataset for Genetic Variant Representation Learning
+* [satmut\_utils](https://github.com/ijhoskins/satmut_utils)  \- \[python] \- satmut\_utils is a Python package for simulation and variant calling of saturation mutagenesis data. The two main subcommands are: sim and call
 
 
 ### Analysis Tools
@@ -48,6 +49,8 @@ List of software packages (and the people developing these methods) for multiple
 * [seqminer](https://github.com/zhanxw/seqminer) \- \[R] \- Seqminer is a highly efficient R\-package for retrieving sequence variants from biobank scale datasets of millions of individuals and billions of genetic variants.
 * [dumpling](https://github.com/odcambc/dumpling) \- \[python] \- GATK\-based Snakemake pipeline for deep mutational scanning experiments
 * [rosace](https://github.com/pimentellab/rosace) \- \[R] \- rosace is an R package for analyzing growth\-based deep mutational scanning screen data.
+* [mutscan](https://github.com/fmicompbio/mutscan) \- \[R] \- mutscan is an R package to process, statistically analyse and visualise multiplexed assays of variant effect data.
+* [TransVar](https://github.com/zwdzwd/transvar) \- \[python] \- TransVar is a multi\-way annotator for genetic elements and genetic variations.
 
 
 ### Visualization Tools
@@ -85,6 +88,7 @@ List of software packages (and the people developing these methods) for multiple
 
 * [dms\-view](https://dms-view.github.io/docs/tutorial.html) \- \[.] \- The goal of dms\_view is to facilitate the analysis of deep mutational scanning experiments through interactive visualizations. dms\_view links together three pieces of information: a site\-level summary metric, a mutation\-level metric, and the 3\-D protein structure.
 * [Understanding the functional consequences of every single mutation in Your Favourite Gene](https://mdhs.unimelb.edu.au/centre-for-cancer-research/about/seminars/external-speakers/understanding-the-functional-consequences-of-every-single-mutation-in-your-favourite-gene) \- \[.] \- This talk describes Multiplexed Assays of Variant Effect (MAVEs), a family of experimental techniques that allow researchers to measure all possible variants of a gene or other functional element at once, with a focus on enabling MAVE data sharing and clinical applications.
+* [Workshop report: the clinical application of data from multiplex assays of variant effect (MAVEs), 12 July 2023](https://www.nature.com/articles/s41431-024-01566-2#Sec1) \- \[.] \- ‘Clinical Application of MAVE Data’ workshop, held on 12th July 2023 at the Wellcome Connecting Science Conference Centre in between two relevant research meetings, ‘Curating the Clinical Genome 2023’ and the ‘Mutational Scanning Symposium 2023’
 
 
 ## Similar Collections
