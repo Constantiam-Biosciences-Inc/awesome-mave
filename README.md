@@ -12,30 +12,20 @@ List of software packages (and the people developing these methods) for multiple
 * [awesome\-mave](#awesome-mave)
 	+ [Contents](#contents)
 	+ [Software Packages](#software-packages)
-		- [In Silico Tools](#in-silico-tools)
 		- [Analysis Tools](#analysis-tools)
+		- [In Silico Tools](#in-silico-tools)
 		- [Visualization Tools](#visualization-tools)
 	+ [Applications](#applications)
-		- [Websites / Portals](#websites-portals)
 		- [Databases](#databases)
-	+ [Tutorials](#tutorials)
-		- [Tutorials](#tutorials_1)
+		- [Websites / Portals](#websites-portals)
 	+ [Similar Collections](#similar-collections)
 		- [Similar Collections](#similar-collections_1)
+	+ [Tutorials](#tutorials)
+		- [Tutorials](#tutorials_1)
 
 
 
 ## Software Packages
-
-
-### In Silico Tools
-
-
-* [REVEL](https://sites.google.com/site/revelgenomics/) \- \[.] \- An ensemble method for predicting the pathogenicity of missense variants based on a combination of scores from 13 individual tools
-* [AlphaMissense](https://alphamissense.hegelab.org/) \- \[.] \- A deep learning model that builds on the protein structure prediction tool AlphaFold2
-* [CADD](https://cadd.gs.washington.edu/) \- \[.] \- CADD is a tool for scoring the deleteriousness of single nucleotide variants, multi\-nucleotide substitutions as well as insertion/deletions variants in the human genome.
-* [GV\-Rep](https://github.com/bowang-lab/genomic-FM) \- \[.] \- A Large\-Scale Dataset for Genetic Variant Representation Learning
-* [satmut\_utils](https://github.com/ijhoskins/satmut_utils)  \- \[python] \- satmut\_utils is a Python package for simulation and variant calling of saturation mutagenesis data. The two main subcommands are: sim and call
 
 
 ### Analysis Tools
@@ -53,6 +43,19 @@ List of software packages (and the people developing these methods) for multiple
 * [TransVar](https://github.com/zwdzwd/transvar) \- \[python] \- TransVar is a multi\-way annotator for genetic elements and genetic variations.
 
 
+### In Silico Tools
+
+
+* [REVEL](https://sites.google.com/site/revelgenomics/) \- \[.] \- An ensemble method for predicting the pathogenicity of missense variants based on a combination of scores from 13 individual tools
+* [AlphaMissense](https://alphamissense.hegelab.org/) \- \[.] \- A deep learning model that builds on the protein structure prediction tool AlphaFold2
+* [CADD](https://cadd.gs.washington.edu/) \- \[.] \- CADD is a tool for scoring the deleteriousness of single nucleotide variants, multi\-nucleotide substitutions as well as insertion/deletions variants in the human genome.
+* [GV\-Rep](https://github.com/bowang-lab/genomic-FM) \- \[.] \- A Large\-Scale Dataset for Genetic Variant Representation Learning
+* [satmut\_utils](https://github.com/ijhoskins/satmut_utils)  \- \[python] \- satmut\_utils is a Python package for simulation and variant calling of saturation mutagenesis data. The two main subcommands are: sim and call
+* [SIFT \- Sorting Intolerant From Tolerant](https://sift.bii.a-star.edu.sg/) \- \[.] \- SIFT predicts whether an amino acid substitution affects protein function based on sequence homology and the physical properties of amino acids. SIFT can be applied to naturally occurring nonsynonymous polymorphisms and laboratory\-induced missense mutations.
+* [PolyPhen\-2 \- Polymorphism Phenotyping v2](http://genetics.bwh.harvard.edu/pph2/) \- \[.] \- PolyPhen\-2 (Polymorphism Phenotyping v2\) is a tool which predicts possible impact of an amino acid substitution on the structure and function of a human protein using straightforward physical and comparative considerations
+* [SNPs\&GO](https://snps.biofold.org/snps-and-go/snps-and-go.html) \- \[.] \- The online predictor also provides access to PANTHER and PhD\-SNP predictions. Note that the method only handles limited variants per query, meaning full protein predictions need to be submitted in chunks.
+
+
 ### Visualization Tools
 
 
@@ -60,15 +63,6 @@ List of software packages (and the people developing these methods) for multiple
 
 
 ## Applications
-
-
-### Websites / Portals
-
-
-* [MAVEvidence](https://mavevidence.com/)  \- \[.] \- MAVEvidence is the premier functional evidence resource for the clinical genetics community.
-* [MAVEQuest](https://mavequest.varianteffect.org/) \- \[.] \- MaveQuest: a web resource for planning experimental tests of human variant effects
-* [cBioPortal](https://www.cbioportal.org/) \- \[.] \- The cBioPortal for Cancer Genomics is an open\-access, open\-source resource for interactive exploration of multidimensional cancer genomics data sets.
-* [OncoKB](https://www.oncokb.org/) \- \[.] \- MSK's Precision Oncology Knowledge Base
 
 
 ### Databases
@@ -80,15 +74,13 @@ List of software packages (and the people developing these methods) for multiple
 * [COSMIC](https://cancer.sanger.ac.uk/cosmic) \- \[.] \- the Catalogue of Somatic Mutations in Cancer – is the world's largest source of expert manually curated somatic mutation information relating to human cancers.
 
 
-## Tutorials
+### Websites / Portals
 
 
-### Tutorials
-
-
-* [dms\-view](https://dms-view.github.io/docs/tutorial.html) \- \[.] \- The goal of dms\_view is to facilitate the analysis of deep mutational scanning experiments through interactive visualizations. dms\_view links together three pieces of information: a site\-level summary metric, a mutation\-level metric, and the 3\-D protein structure.
-* [Understanding the functional consequences of every single mutation in Your Favourite Gene](https://mdhs.unimelb.edu.au/centre-for-cancer-research/about/seminars/external-speakers/understanding-the-functional-consequences-of-every-single-mutation-in-your-favourite-gene) \- \[.] \- This talk describes Multiplexed Assays of Variant Effect (MAVEs), a family of experimental techniques that allow researchers to measure all possible variants of a gene or other functional element at once, with a focus on enabling MAVE data sharing and clinical applications.
-* [Workshop report: the clinical application of data from multiplex assays of variant effect (MAVEs), 12 July 2023](https://www.nature.com/articles/s41431-024-01566-2#Sec1) \- \[.] \- ‘Clinical Application of MAVE Data’ workshop, held on 12th July 2023 at the Wellcome Connecting Science Conference Centre in between two relevant research meetings, ‘Curating the Clinical Genome 2023’ and the ‘Mutational Scanning Symposium 2023’
+* [MAVEvidence](https://mavevidence.com/)  \- \[.] \- MAVEvidence is the premier functional evidence resource for the clinical genetics community.
+* [MAVEQuest](https://mavequest.varianteffect.org/) \- \[.] \- MaveQuest: a web resource for planning experimental tests of human variant effects
+* [cBioPortal](https://www.cbioportal.org/) \- \[.] \- The cBioPortal for Cancer Genomics is an open\-access, open\-source resource for interactive exploration of multidimensional cancer genomics data sets.
+* [OncoKB](https://www.oncokb.org/) \- \[.] \- MSK's Precision Oncology Knowledge Base
 
 
 ## Similar Collections
@@ -98,3 +90,14 @@ List of software packages (and the people developing these methods) for multiple
 
 
 * [MAVE Data Analysis Tools](https://www.varianteffect.org/analysis-tools) \- \[.] \- Multiplexed assays of variant effect (MAVEs) are high\-throughput methods employed to investigate the impact of genetic variations in proteins or nucleic acids on their functionality. MAVE experiments are often referred to as deep mutational scans (DMS), and offer a comprehensive and systematic approach to examining the relationship between sequence and function.
+
+
+## Tutorials
+
+
+### Tutorials
+
+
+* [dms\-view](https://dms-view.github.io/docs/tutorial.html) \- \[.] \- The goal of dms\_view is to facilitate the analysis of deep mutational scanning experiments through interactive visualizations. dms\_view links together three pieces of information: a site\-level summary metric, a mutation\-level metric, and the 3\-D protein structure.
+* [Understanding the functional consequences of every single mutation in Your Favourite Gene](https://mdhs.unimelb.edu.au/centre-for-cancer-research/about/seminars/external-speakers/understanding-the-functional-consequences-of-every-single-mutation-in-your-favourite-gene) \- \[.] \- This talk describes Multiplexed Assays of Variant Effect (MAVEs), a family of experimental techniques that allow researchers to measure all possible variants of a gene or other functional element at once, with a focus on enabling MAVE data sharing and clinical applications.
+* [Workshop report: the clinical application of data from multiplex assays of variant effect (MAVEs), 12 July 2023](https://www.nature.com/articles/s41431-024-01566-2#Sec1) \- \[.] \- ‘Clinical Application of MAVE Data’ workshop, held on 12th July 2023 at the Wellcome Connecting Science Conference Centre in between two relevant research meetings, ‘Curating the Clinical Genome 2023’ and the ‘Mutational Scanning Symposium 2023’
