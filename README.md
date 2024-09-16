@@ -79,6 +79,8 @@ List of software packages (and the people developing these methods) for multiple
 * [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) \- \[.] \- ClinVar is a freely accessible, public archive of reports of human variations classified for diseases and drug responses, with supporting evidence.
 * [OMIM](https://www.omim.org/) \- \[.] \- Online Mendelian Inheritance in Man (OMIM) is a continuously updated catalog of human genes and genetic disorders and traits, with a particular focus on the gene\-phenotype relationship.
 * [dbNSFP](https://sites.google.com/site/jpopgen/dbNSFP) \- \[.] \- dbNSFP is a database developed for functional prediction and annotation of all potential non\-synonymous single\-nucleotide variants (nsSNVs) in the human genome.
+* [SplicsVarDB](https://compbio.ccia.org.au/splicevardb/) \- \[.] \- SpliceVarDB, an online database consolidating over 50,000 variants assayed for their effects on splicing in over 8,000 human genes.
+* [MPRAbase](https://github.com/Ahituv-lab/mprabase) \- \[.] \- MPRAbase is a comprehensive, easily accessible database whose goal is to store published MPRA datasets, process them, present them in a user\-friendly manner, provide easy to use search tools and rapidly download these datasets.
 
 
 ### Websites / Portals
