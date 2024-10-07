@@ -81,6 +81,8 @@ List of software packages (and the people developing these methods) for multiple
 * [dbNSFP](https://sites.google.com/site/jpopgen/dbNSFP) \- \[.] \- dbNSFP is a database developed for functional prediction and annotation of all potential non\-synonymous single\-nucleotide variants (nsSNVs) in the human genome.
 * [SplicsVarDB](https://compbio.ccia.org.au/splicevardb/) \- \[.] \- SpliceVarDB, an online database consolidating over 50,000 variants assayed for their effects on splicing in over 8,000 human genes.
 * [MPRAbase](https://github.com/Ahituv-lab/mprabase) \- \[.] \- MPRAbase is a comprehensive, easily accessible database whose goal is to store published MPRA datasets, process them, present them in a user\-friendly manner, provide easy to use search tools and rapidly download these datasets.
+* [AACR Project GENIE](https://www.synapse.org/Synapse:syn7222066/tables/) \- \[.] \- AACR Project GENIE is a publicly accessible international cancer registry of real\-world data assembled through data sharing between 19 of the leading cancer centers in the world.
+* [GDSC](https://www.cancerrxgene.org/) \- \[.] \- We have characterised 1000 human cancer cell lines and screened them with 100s of compounds. On this website, you will find drug response data and genomic markers of sensitivity.
 
 
 ### Websites / Portals
