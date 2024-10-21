@@ -57,6 +57,8 @@ List of software packages (and the people developing these methods) for multiple
 * [SIFT \- Sorting Intolerant From Tolerant](https://sift.bii.a-star.edu.sg/) \- \[.] \- SIFT predicts whether an amino acid substitution affects protein function based on sequence homology and the physical properties of amino acids. SIFT can be applied to naturally occurring nonsynonymous polymorphisms and laboratory\-induced missense mutations.
 * [PolyPhen\-2 \- Polymorphism Phenotyping v2](http://genetics.bwh.harvard.edu/pph2/) \- \[.] \- PolyPhen\-2 (Polymorphism Phenotyping v2\) is a tool which predicts possible impact of an amino acid substitution on the structure and function of a human protein using straightforward physical and comparative considerations
 * [SNPs\&GO](https://snps.biofold.org/snps-and-go/snps-and-go.html) \- \[.] \- The online predictor also provides access to PANTHER and PhD\-SNP predictions. Note that the method only handles limited variants per query, meaning full protein predictions need to be submitted in chunks.
+* [DRAKES](https://github.com/ChenyuWang-Monica/DRAKES) \- \[python] \- The repository contains the code for the DRAKES method presented in the paper: Fine\-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein design(2024\). DRAKES is a fine\-tuning method for reward optimization or alignment in discrete diffusion models, utilizing direct backpropagation with the softmax\-gumbel trick.
+* [FUSE](https://github.com/TYTYBU/FUSE-pipeline) \- \[R] \- FUSE: Improving the estimation and imputation of variant impacts in functional screening
 
 
 ### Visualization Tools
@@ -85,6 +87,8 @@ List of software packages (and the people developing these methods) for multiple
 * [MPRAbase](https://github.com/Ahituv-lab/mprabase) \- \[.] \- MPRAbase is a comprehensive, easily accessible database whose goal is to store published MPRA datasets, process them, present them in a user\-friendly manner, provide easy to use search tools and rapidly download these datasets.
 * [AACR Project GENIE](https://www.synapse.org/Synapse:syn7222066/tables/) \- \[.] \- AACR Project GENIE is a publicly accessible international cancer registry of real\-world data assembled through data sharing between 19 of the leading cancer centers in the world.
 * [GDSC](https://www.cancerrxgene.org/) \- \[.] \- We have characterised 1000 human cancer cell lines and screened them with 100s of compounds. On this website, you will find drug response data and genomic markers of sensitivity.
+* [KinDEL](https://github.com/insitro/kindel) \- \[python] \- KinDEL is a large DNA\-encoded library dataset containing two kinase targets (DDR1 and MAPK14\) for benchmarking machine learning models.
+* [Genomics 2 Proteins portal](https://g2p.broadinstitute.org/) \- \[.] \- a resource and discovery tool for linking genetic screening outputs to protein sequences and structures
 
 
 ### Websites / Portals
