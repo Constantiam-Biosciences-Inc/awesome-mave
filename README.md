@@ -15,6 +15,8 @@ List of software packages (and the people developing these methods) for multiple
 		- [Analysis Tools](#analysis-tools)
 		- [In Silico Tools](#in-silico-tools)
 		- [Visualization Tools](#visualization-tools)
+	+ [Assays](#assays)
+		- [Assays](#assays_1)
 	+ [Applications](#applications)
 		- [Databases](#databases)
 		- [Websites / Portals](#websites-portals)
@@ -22,8 +24,6 @@ List of software packages (and the people developing these methods) for multiple
 		- [Similar Collections](#similar-collections_1)
 	+ [Tutorials](#tutorials)
 		- [Tutorials](#tutorials_1)
-	+ [Assays](#assays)
-		- [Assays](#assays_1)
 
 
 
@@ -44,6 +44,7 @@ List of software packages (and the people developing these methods) for multiple
 * [mutscan](https://github.com/fmicompbio/mutscan) \- \[R] \- mutscan is an R package to process, statistically analyse and visualise multiplexed assays of variant effect data.
 * [TransVar](https://github.com/zwdzwd/transvar) \- \[python] \- TransVar is a multi\-way annotator for genetic elements and genetic variations.
 * [SubChrom](https://github.com/MullighanLab/SubChrom) \- \[.] \- A tool for dectecting Subclonal Chromosomal aberrations and estimating tumor fraction in cell\-free DNA from next generation sequencing data.
+* [MoCHI](https://github.com/lehner-lab/MoCHI) \- \[python] \- Neural networks to fit interpretable models and quantify energies, energetic couplings, epistasis, and allostery from deep mutational scanning data.
 
 
 ### In Silico Tools
@@ -67,6 +68,18 @@ List of software packages (and the people developing these methods) for multiple
 * [gw](https://github.com/kcleal/gw/tree/master) \- \[.] \- GW is a fast browser for genomic sequencing data (.bam/.cram format) used directly from the terminal. GW also allows you to view and annotate variants from vcf/bcf files.
 * [FoldMason](https://github.com/steineggerlab/foldmason) \- \[.] \- FoldMason is a software tool for constructing accurate multiple alignments from large sets of protein structures.
 * [SRplot](https://www.bioinformatics.com.cn/srplot) \- \[.] \- SRplot a freely accessible easy\-to\-use web server that integrated all of the commonly used data visualization and graphing functions together. It can be run easily with all Web browsers, with a user\-friendly graphical interface, users can paste your data directly into the input box according to the defined file format
+
+
+## Assays
+
+
+### Assays
+
+
+* [VAMP\-seq](https://pubmed.ncbi.nlm.nih.gov/29785012/) \- \[.] \- We describe variant abundance by massively parallel sequencing (VAMP\-seq), which measures the effects of thousands of missense variants of a protein on intracellular abundance simultaneously
+* [MP3\-seq](https://www.nature.com/articles/s41589-024-01718-x) \- \[.] \- Here, we introduce massively parallel PPI measurement by sequencing (MP3\-seq), an easy\-to\-use and highly scalable yeast two\-hybrid approach for measuring PPIs.
+* [LABEL\-seq](https://pubmed.ncbi.nlm.nih.gov/38659825/) \- \[.] \- Here, we developed LAbeling with Barcodes and Enrichment for biochemicaL analysis by sequencing (LABEL\-seq), a platform for the multimodal profiling of thousands of protein variants in cultured human cells.
+* [STARR\-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02156-3) \- \[.] \- Here, we applied STARR\-seq, a genome\-wide plasmid\-based assay, as a read\-out for the enhancer landscape in “ground\-state” (2i\+LIF; 2iL) and “metastable” (serum\+LIF; SL) mESCs.
 
 
 ## Applications
@@ -118,15 +131,3 @@ List of software packages (and the people developing these methods) for multiple
 * [dms\-view](https://dms-view.github.io/docs/tutorial.html) \- \[.] \- The goal of dms\_view is to facilitate the analysis of deep mutational scanning experiments through interactive visualizations. dms\_view links together three pieces of information: a site\-level summary metric, a mutation\-level metric, and the 3\-D protein structure.
 * [Understanding the functional consequences of every single mutation in Your Favourite Gene](https://mdhs.unimelb.edu.au/centre-for-cancer-research/about/seminars/external-speakers/understanding-the-functional-consequences-of-every-single-mutation-in-your-favourite-gene) \- \[.] \- This talk describes Multiplexed Assays of Variant Effect (MAVEs), a family of experimental techniques that allow researchers to measure all possible variants of a gene or other functional element at once, with a focus on enabling MAVE data sharing and clinical applications.
 * [Workshop report: the clinical application of data from multiplex assays of variant effect (MAVEs), 12 July 2023](https://www.nature.com/articles/s41431-024-01566-2#Sec1) \- \[.] \- ‘Clinical Application of MAVE Data’ workshop, held on 12th July 2023 at the Wellcome Connecting Science Conference Centre in between two relevant research meetings, ‘Curating the Clinical Genome 2023’ and the ‘Mutational Scanning Symposium 2023’
-
-
-## Assays
-
-
-### Assays
-
-
-* [VAMP\-seq](https://pubmed.ncbi.nlm.nih.gov/29785012/) \- \[.] \- We describe variant abundance by massively parallel sequencing (VAMP\-seq), which measures the effects of thousands of missense variants of a protein on intracellular abundance simultaneously
-* [MP3\-seq](https://www.nature.com/articles/s41589-024-01718-x) \- \[.] \- Here, we introduce massively parallel PPI measurement by sequencing (MP3\-seq), an easy\-to\-use and highly scalable yeast two\-hybrid approach for measuring PPIs.
-* [LABEL\-seq](https://pubmed.ncbi.nlm.nih.gov/38659825/) \- \[.] \- Here, we developed LAbeling with Barcodes and Enrichment for biochemicaL analysis by sequencing (LABEL\-seq), a platform for the multimodal profiling of thousands of protein variants in cultured human cells.
-* [STARR\-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02156-3) \- \[.] \- Here, we applied STARR\-seq, a genome\-wide plasmid\-based assay, as a read\-out for the enhancer landscape in “ground\-state” (2i\+LIF; 2iL) and “metastable” (serum\+LIF; SL) mESCs.
