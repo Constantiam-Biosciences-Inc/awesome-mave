@@ -60,6 +60,7 @@ List of software packages (and the people developing these methods) for multiple
 * [SNPs\&GO](https://snps.biofold.org/snps-and-go/snps-and-go.html) \- \[.] \- The online predictor also provides access to PANTHER and PhD\-SNP predictions. Note that the method only handles limited variants per query, meaning full protein predictions need to be submitted in chunks.
 * [DRAKES](https://github.com/ChenyuWang-Monica/DRAKES) \- \[python] \- The repository contains the code for the DRAKES method presented in the paper: Fine\-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein design(2024\). DRAKES is a fine\-tuning method for reward optimization or alignment in discrete diffusion models, utilizing direct backpropagation with the softmax\-gumbel trick.
 * [FUSE](https://github.com/TYTYBU/FUSE-pipeline) \- \[R] \- FUSE: Improving the estimation and imputation of variant impacts in functional screening
+* [PyMOLfold](https://github.com/colbyford/PyMOLfold) \- \[.] \- Plugin for folding sequences directly in PyMOL using various models (ESM3, Boltz\-1, and Chai\-1\)
 
 
 ### Visualization Tools
