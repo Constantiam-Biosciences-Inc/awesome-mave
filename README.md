@@ -87,7 +87,7 @@ List of software packages (and the people developing these methods) for multiple
 
 * [Enrich2](https://enrich2.readthedocs.io/en/latest/) \- \[.] \- Enrich2 is a general software tool for processing, analyzing, and visualizing data from deep mutational scanning experiments.
 * [mavetools](https://www.mavedb.org/docs/mavetools/index.html) \- \[.] \- MaveTools is a pure Python Library for bioinformatics and computational biology. It features useful tools that can be applied to MAVE data
-* [OpenCRAVAT](https://opencravat.org/index.html) \- \[.] \- OpenCRAVAT is a new open source, scalable decision support system to support variant and gene prioritization
+* [OpenCRAVAT](https://www.opencravat.org/) \- \[.] \- OpenCRAVAT is a new open source, scalable decision support system to support variant and gene prioritization
 * [AnalyzeSaturationMutagenesis](https://gatk.broadinstitute.org/hc/en-us/articles/360046789232-AnalyzeSaturationMutagenesis-BETA) \- \[.] \- This tool processes reads from an experiment that systematically perturbs a mini\-gene to ascertain which amino\-acid variations are tolerable at each codon of the open reading frame.
 * [MAVE\-NN](https://mavenn.readthedocs.io/en/latest/) \- \[python] \- MAVE\-NN 1 enables the rapid quantitative modeling of genotype\-phenotype (G\-P) maps from the data produced by multiplex assays of variant effect (MAVEs).
 * [seqminer](https://github.com/zhanxw/seqminer) \- \[R] \- Seqminer is a highly efficient R\-package for retrieving sequence variants from biobank scale datasets of millions of individuals and billions of genetic variants.
